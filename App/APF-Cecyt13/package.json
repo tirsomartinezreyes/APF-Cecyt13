@@ -1,0 +1,30 @@
+{
+  "nativescript": {
+    "id": "mx.zoga.apfcecyt13",
+    "tns-android": {
+      "version": "6.5.3"
+    },
+    "tns-ios": {
+      "version": "6.5.2"
+    }
+  },
+  "description": "App padres de familia Cecyt 13",
+  "license": "SEE LICENSE IN LICENCE FILE",
+  "repository": "https://github.com/tirsomartinezreyes/APF-Cecyt13",
+  "dependencies": {
+    "@nativescript/theme": "~2.3.0",
+    "nativescript-vue": "~2.4.0",
+    "tns-core-modules": "^6.5.19"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.1.0",
+    "@babel/preset-env": "~7.1.0",
+    "babel-loader": "~8.0.0",
+    "nativescript-dev-webpack": "~1.5.0",
+    "nativescript-vue-template-compiler": "~2.4.0",
+    "node-sass": "^4.7.1",
+    "vue-loader": "~15.4.0"
+  },
+  "gitHead": "20a65d338ae8f8911087ab6615b89363f864b07b",
+  "readme": "App padres de familia Cecyt 13"
+}
