@@ -1,0 +1,18 @@
+#hidden files
+.DS_Store
+.history
+
+#specific files
+version.txt
+*.ipa
+*.apk
+
+#specific folders
+node_modules
+platforms
+
+#Absolute paths
+/Documentation/html
+/ConfigFiles/env/*
+/ConfigFiles/globalConfig.json
+/ConfigFiles/firebasePK.json
